@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462747645983",
+    "project_id": "ezorder-d0db9",
+    "storage_bucket": "ezorder-d0db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462747645983:android:b5e4eee0a7f7c1a1eefd2a",
+        "android_client_info": {
+          "package_name": "com.georgdettki.english_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462747645983-34ddjj55jum1qa25r93j2rsc9olo5m83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgdettki.english_order",
+            "certificate_hash": "bc072a3f1067766cc6b713488289aec1cd54bb40"
+          }
+        },
+        {
+          "client_id": "462747645983-ofe4e84vbe74f8lhdiinlu692hqrmc6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1ynGmxnSUQ3ET_OPYtkHdHHlH44OMDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462747645983-ofe4e84vbe74f8lhdiinlu692hqrmc6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
